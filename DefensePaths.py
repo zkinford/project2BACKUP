@@ -37,3 +37,5 @@ def DrawBaseballSeams(self, centralObject, droneName, step, numSeams, radius = 1
     unitVec.normalize()
     position = unitVec * radius * 250 + centralObject.modelNode.getPos()
     spaceJamClasses.Drone(self.loader, "./Assets/DroneDefender/DroneDefender.obj", self.render, droneName, "./Assets/DroneDefender/octotoad1_auv.png", postion, 5)
+
+    #dfonikeriobedriobmedriobm
